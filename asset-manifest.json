@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/%20BANQUEE_THOMSO23/static/css/main.60b66cae.css",
+    "main.js": "/%20BANQUEE_THOMSO23/static/js/main.00a40542.js",
+    "static/js/787.6b3001af.chunk.js": "/%20BANQUEE_THOMSO23/static/js/787.6b3001af.chunk.js",
+    "static/media/Star 4.png": "/%20BANQUEE_THOMSO23/static/media/Star 4.a40c52297530386e32ff.png",
+    "static/media/img1.png": "/%20BANQUEE_THOMSO23/static/media/img1.01f6ba829eda2f76e9e9.png",
+    "static/media/Maskgroup.png": "/%20BANQUEE_THOMSO23/static/media/Maskgroup.490c10e1a5b4d225218c.png",
+    "static/media/img2.png": "/%20BANQUEE_THOMSO23/static/media/img2.6a4e3bb5675cff265f43.png",
+    "static/media/img3.png": "/%20BANQUEE_THOMSO23/static/media/img3.2b29e26402aa5b6aa1d4.png",
+    "static/media/Hero Image.png": "/%20BANQUEE_THOMSO23/static/media/Hero Image.2bfe9745751ae22b2ce5.png",
+    "static/media/security.png": "/%20BANQUEE_THOMSO23/static/media/security.d342d61af87ad4ac0527.png",
+    "static/media/credit1.png": "/%20BANQUEE_THOMSO23/static/media/credit1.91509d7513de2d6d3934.png",
+    "static/media/credit2.png": "/%20BANQUEE_THOMSO23/static/media/credit2.d4792f255a785dde13da.png",
+    "static/media/autobill.png": "/%20BANQUEE_THOMSO23/static/media/autobill.6fd2c063814493a7c3eb.png",
+    "static/media/mobile.png": "/%20BANQUEE_THOMSO23/static/media/mobile.2d76cef3f4625ad9ad67.png",
+    "static/media/house.png": "/%20BANQUEE_THOMSO23/static/media/house.af68c1c6c138056f48dd.png",
+    "static/media/Star 2.png": "/%20BANQUEE_THOMSO23/static/media/Star 2.fedbe522c797b5481b79.png",
+    "static/media/william.png": "/%20BANQUEE_THOMSO23/static/media/william.141732dccf7fcd4803ea.png",
+    "static/media/rebecca.png": "/%20BANQUEE_THOMSO23/static/media/rebecca.e5de2dba445023eb1480.png",
+    "static/media/image 2.png": "/%20BANQUEE_THOMSO23/static/media/image 2.9f95ce2c2dd66968f2d8.png",
+    "index.html": "/%20BANQUEE_THOMSO23/index.html",
+    "main.60b66cae.css.map": "/%20BANQUEE_THOMSO23/static/css/main.60b66cae.css.map",
+    "main.00a40542.js.map": "/%20BANQUEE_THOMSO23/static/js/main.00a40542.js.map",
+    "787.6b3001af.chunk.js.map": "/%20BANQUEE_THOMSO23/static/js/787.6b3001af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60b66cae.css",
+    "static/js/main.00a40542.js"
+  ]
+}
